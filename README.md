@@ -2,7 +2,7 @@
 
 ## 📌 Project Overview
 
-This project consists of three interactive Power BI dashboards developed using an E-Commerce Sales dataset. The dashboards provide a comprehensive analysis of sales performance, customer purchasing behavior, product performance, and future sales forecasting.
+This project consists of three interactive Power BI dashboards developed using an E-Commerce Sales dataset. The dashboards provide a comprehensive analysis of sales performance, customer purchasing behavior, product performanc and future sales forecasting.
 
 The primary objective of this project is to transform raw sales data into meaningful business insights that support data-driven decision-making.
 
@@ -10,7 +10,7 @@ The primary objective of this project is to transform raw sales data into meanin
 
 ### 1. 📊 E-Commerce Sales Dashboard
 
-An interactive dashboard for analyzing sales and profit across regions, products, customers, shipping methods, payment modes, and time.
+An interactive dashboard for analyzing sales and profit across regions, products, customers, shipping methods, payment modes and time.
 
 Provides an overview of:
 
