@@ -1,5 +1,4 @@
-# 📊 Sales Data Exploration and Visualization for E-Commerce using 
-# Power BI
+## 📊 Sales Data Exploration and Visualization for E-Commerce using Power BI
 
 ## 📌 Project Overview
 
